@@ -1,3 +1,3 @@
 ## Brendan Lee
 
-![alt text](dog garlic.jpg)
+![Dog Garlic](images/doggarlic.jpg)
